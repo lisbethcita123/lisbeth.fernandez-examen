@@ -25,7 +25,7 @@
 				<!-- Collect the nav links, forms, and other content for toggling -->
 				<div class="collapse navbar-collapse navbar-ex1-collapse">
 					<ul class="nav navbar-nav">
-						<li class="active"><a href="#">Ultimos Doramas</a></li>
+						<li class="active"><a href="#">Ultimos Doramas 2016</a></li>
 						<li><a href="#"></a></li>
 					</ul>
 					<form class="navbar-form navbar-left" role="search">
